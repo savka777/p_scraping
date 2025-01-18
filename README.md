@@ -1,2 +1,2 @@
 ## Demo
-![Demo](assests\videos\demo.gif)
+![Demo](assests/videos/demo.gif)
