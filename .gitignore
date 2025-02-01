@@ -13,6 +13,7 @@ npm-debug.log*
 pids
 *.pid
 *.seed
+tmp
 
 # Generated images from your scraping
 imgs/
